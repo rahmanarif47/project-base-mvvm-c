@@ -1,0 +1,6 @@
+framework module Pods_base_project_mvvm_c_base_project_mvvm_cUITests {
+  umbrella header "Pods-base-project-mvvm-c-base-project-mvvm-cUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
